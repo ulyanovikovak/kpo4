@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "c20bbaad-d8c5-411c-86d5-5e355841f9a4",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28071643",
+		"_collection_link": "https://red-meteor-298932.postman.co/workspace/Team-Workspace~ef1f9cf4-f82e-4481-81f4-52900b81340c/collection/28071643-c20bbaad-d8c5-411c-86d5-5e355841f9a4?action=share&creator=28071643&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
